@@ -1,6 +1,6 @@
 package com.nit.Main;
 
-public class Operations {
+public class Operation {
 	public int sum(int x,int y) {
 		return x+y;
 	}
